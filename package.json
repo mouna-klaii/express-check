@@ -1,0 +1,24 @@
+{
+  "name": "express-checkpoint",
+  "version": "1.0.0",
+  "description": "express-checkpoint",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node.js",
+    "express.js"
+  ],
+  "author": "Mouna",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21",
+    "pug": "^3.0.2",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.2"
+  }
+}
